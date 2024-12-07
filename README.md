@@ -57,7 +57,19 @@ The dataset consists of three primary components:
 The analysis is based on a dataset that tracks global cancer deaths from 2000 to 2017. Ensure compliance with data privacy and ethical guidelines when using or sharing this dataset.
 
 ## Screenshots
-*(Add screenshots of key visuals from the Power BI report.)*
+
+### Page 1: 
+![Page 1](https://github.com/Shahadshad007/Cancer_data_Analysis/blob/main/PAGE-1.png)
+
+### Page 2: 
+![Page 2](https://github.com/Shahadshad007/Cancer_data_Analysis/blob/main/PAGE-2.png)
+
+### Page 3: 
+![Page 3](https://github.com/Shahadshad007/Cancer_data_Analysis/blob/main/PAGE-3.png)
+
+### Page 4: 
+![Page 4](https://github.com/Shahadshad007/Cancer_data_Analysis/blob/main/PAGE-4.png)
+
 
 ## Contributing
 Contributions are welcome! Please submit a pull request or open an issue for any suggestions or improvements.
